@@ -1,0 +1,71 @@
+
+
+		-------- RESTAURANT MANAGEMENT SYSTEM ---------
+
+
+
+		--------------- CHOP AND SUEY -----------------
+
+		Beef Chop Suey			........ 410.00
+		Chinese Chop Suey 		........ 410.00
+		Vegetable Chop Suey 	........ 320.00
+		Prawn Chop Suey 		........ 440.00
+		Fish Chop Suey 			........ 440.00
+		Chicken Chop Suey 		......... 410.00
+		American Chop Suey 		........ 440.00
+		Beef Button Mushroom Chop Suey . 440.00
+		Chkn Button Mushroom Chop Suey . 440.00
+		Prawn Button Mushroom Chop Suey. 440.00
+		Chicken & Pineapple Chop Suey  . 440.00
+		Beef Pineapple Chop Suey 	   . 440.00
+		Prawn Pineapple Chop Suey      . 440.00
+		
+
+	------------------------ Menue Details ---------------------
+
+1:                          Beef Chop Suey		       410
+
+2:                       Chinese Chop Suey 	       410
+
+3:                      Vegetable Chop Suey        320
+
+4:                         Prawn Chop Suey 	       440
+
+5:                         Fish Chop Suey 		       440
+
+6:                       Chicken Chop Suey 	       410
+
+7:                      American Chop Suey 	       440
+
+8:            Beef Button Mushroom Chop Suey       440
+
+9:            Chkn Button Mushroom Chop Suey       440
+
+10:            Prawn Button Mushroom Chop Sue       440
+
+11:            Chicken & Pineapple Chop Suey        440
+
+12:              Beef Pineapple Chop Suey 	         440
+
+13:            Prawn Pineapple Chop Suey            440
+
+
+
+
+	|||||||||||||||||---   RESTAURANT---||||||||||||||||
+
+
+
+	------------------- Here you can Menu choice ---------------
+
+
+	------------------- Choice limited in Menu 4 ---------------
+
+
+	------------------ Your choice can select any 4 ------------
+
+
+Enter a your name : askat
+Enter a your id_card number : 17
+Name : askat
+ID_Card : 17

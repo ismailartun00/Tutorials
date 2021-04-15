@@ -1,0 +1,13 @@
+Beef Chop Suey			........ 410.00
+Chinese Chop Suey 		........ 410.00
+Vegetable Chop Suey 	........ 320.00
+Prawn Chop Suey 		........ 440.00
+Fish Chop Suey 			........ 440.00
+Chicken Chop Suey 		......... 410.00
+American Chop Suey 		........ 440.00
+Beef Button Mushroom Chop Suey . 440.00
+Chkn Button Mushroom Chop Suey . 440.00
+Prawn Button Mushroom Chop Suey. 440.00
+Chicken & Pineapple Chop Suey  . 440.00
+Beef Pineapple Chop Suey 	   . 440.00
+Prawn Pineapple Chop Suey      . 440.00
