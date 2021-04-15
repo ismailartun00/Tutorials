@@ -1,0 +1,4 @@
+com/iartun25/layoutsouthpark/BuildConfig.java
+ com.iartun25.layoutsouthpark.BuildConfig
+com/iartun25/layoutsouthpark/MainActivity.java
+ com.iartun25.layoutsouthpark.MainActivity

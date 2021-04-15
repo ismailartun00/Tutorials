@@ -1,0 +1,4 @@
+com/iartun25/simplecalculator/BuildConfig.java
+ com.iartun25.simplecalculator.BuildConfig
+com/iartun25/simplecalculator/MainActivity.java
+ com.iartun25.simplecalculator.MainActivity

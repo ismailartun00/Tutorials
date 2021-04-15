@@ -1,0 +1,4 @@
+com/iartun25/layoutlearning/MainActivity.java
+ com.iartun25.layoutlearning.MainActivity
+com/iartun25/layoutlearning/BuildConfig.java
+ com.iartun25.layoutlearning.BuildConfig

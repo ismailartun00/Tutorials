@@ -1,0 +1,4 @@
+com/iartun25/firstapp/MainActivity.java
+ com.iartun25.firstapp.MainActivity
+com/iartun25/firstapp/BuildConfig.java
+ com.iartun25.firstapp.BuildConfig

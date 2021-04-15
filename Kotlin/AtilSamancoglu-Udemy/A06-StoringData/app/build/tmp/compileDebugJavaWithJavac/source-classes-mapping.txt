@@ -1,0 +1,4 @@
+com/iartun25/storingdata/MainActivity.java
+ com.iartun25.storingdata.MainActivity
+com/iartun25/storingdata/BuildConfig.java
+ com.iartun25.storingdata.BuildConfig
