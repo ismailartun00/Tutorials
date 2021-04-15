@@ -1,0 +1,51 @@
+/* 
+Kapsayıcı:
+    -flex-direction
+    -flex-wrap
+    -justify-content
+    -align-items
+    -align-content
+
+Eleman
+    -align-self
+    -flex-grow
+    -flex-shring
+    -flex-basis
+    -order
+*/
+
+
+body{
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+.blogs{
+    background: red;
+    display: flex;
+    flex-direction: row;
+}
+.blog{
+    padding: 20px;
+    margin: 20px;
+    flex-basis: 250px;
+}
+.blog1{
+    background: #2ecc71;
+}
+.blog2{
+    background: #f1c40f;
+}
+.blog3{
+    background: #3498db;
+}
+
+@media(max-width:760px){
+    .blogs{
+        flex-direction: column;
+    }
+}

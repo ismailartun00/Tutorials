@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1 Videoda JavaScript</title>
+    <style>
+        .header{
+            text-align: center;
+            font-family: sans-serif;
+            font-size: 18px;
+            background: red;
+        }
+        .container{
+            text-align: center;
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>1 Videoda JavaScript</h1>
+    </div>
+    <hr>
+    <div class="container">
+        <!-- <button onclick="this.innerHTML='Butona Tıklandı...'">Tıkla</button> -->
+
+
+        <!-- <button onclick="tikla(this)">Tıkla</button> -->
+
+
+        <!-- <p id="para1">Paragraf 1</p>
+        <button onclick="renkDegistir()">Tıkla</button> -->
+
+
+        <!-- <p id="para1">Paragraf 1</p>
+        <button onmouseover="mouseover()" onmouseout="mouseout()">Tıkla</button> -->
+
+
+        <form name="form1" action="gonder.php" method="POST" onsubmit="return dogrula();">
+            <input type="text" name="isim">
+
+            <button type="submit">Gönder</button>
+        </form>
+
+
+
+
+
+    </div>
+    <script>
+        // function tikla(element){
+        //     element.innerHTML="Butona Tıklandı...";
+        // }
+
+
+        // function renkDegistir(){
+        //     var element = document.getElementById("para1");
+        //     element.style.color="red";
+        // }
+
+
+        // function mouseover(){
+        //     var element = document.getElementById("para1");
+        //     element.innerHTML = "Mouse Over Effecti";
+        // }
+        // function mouseout(){
+        //     var element = document.getElementById("para1");
+        //     element.innerHTML = "Mouse Out Effecti";
+        // }
+
+
+        function dogrula(){
+            var form = document.forms["form1"];
+            var deger = form["isim"].value;
+
+            if(deger == ""){
+                alert("isim alanı boş bırakılamaz...");
+                return false;
+            }
+            return true;
+        }
+
+
+    </script>
+</body>
+</html>
