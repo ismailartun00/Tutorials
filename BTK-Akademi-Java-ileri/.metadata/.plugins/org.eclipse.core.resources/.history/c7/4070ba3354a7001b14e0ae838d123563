@@ -1,0 +1,14 @@
+package springIntro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		CustomerManager manager = new CustomerManager(new OracleCustomerDal());
+		manager.add();
+		
+	}
+	// Ioc - Inversion of Control
+	// Dependency Injection
+	
+
+}

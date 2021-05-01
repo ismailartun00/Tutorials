@@ -1,0 +1,10 @@
+package springIntro;
+
+public class OracleCustomerDal implements ICustomerDal{
+	String connectionString;
+	
+	@Override
+	public void add() {
+		System.out.println("Oracle Veritababnýna Eklendi.");
+	}
+}

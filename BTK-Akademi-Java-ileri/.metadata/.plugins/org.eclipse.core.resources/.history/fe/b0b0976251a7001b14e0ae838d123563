@@ -1,0 +1,12 @@
+package springIntro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+	}
+	// Ioc - Inversion of Control
+	// Dependency Injection
+	
+
+}

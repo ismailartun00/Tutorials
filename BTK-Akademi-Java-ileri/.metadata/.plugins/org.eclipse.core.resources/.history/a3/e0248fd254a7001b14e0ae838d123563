@@ -1,0 +1,21 @@
+package springIntro;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Çalýþtý");
+		/*ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+		
+		
+		
+		CustomerManager manager = new CustomerManager(context.getBean("database", ICustomerDal.class));
+		manager.add();*/
+		
+	}
+	// Ioc - Inversion of Control
+	// Dependency Injection
+	
+
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="demo/src"/>
+	<classpathentry kind="src" path="firstSwingDemo/src"/>
+	<classpathentry kind="src" path="JListDemo/src"/>
+	<classpathentry kind="src" path="worldCities/src"/>
+	<classpathentry kind="output" path="JListDemo/build/classes"/>
+</classpath>

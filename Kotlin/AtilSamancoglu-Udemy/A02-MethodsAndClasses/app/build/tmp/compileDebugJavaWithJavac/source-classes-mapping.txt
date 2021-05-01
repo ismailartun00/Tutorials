@@ -1,8 +1,0 @@
-com/iartun25/methodsandclasses/MainActivity.java
- com.iartun25.methodsandclasses.MainActivity
-com/iartun25/methodsandclasses/Simpsons.java
- com.iartun25.methodsandclasses.Simpsons
-com/iartun25/methodsandclasses/BuildConfig.java
- com.iartun25.methodsandclasses.BuildConfig
-com/iartun25/methodsandclasses/Musicians.java
- com.iartun25.methodsandclasses.Musicians

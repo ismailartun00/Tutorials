@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Github\BTK-Akademi-Java-Giris\swingDemos"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\Files"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\42-JdbcIntro"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\41-ThreadingDemo1"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\40-RepositoryDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\39-Generics"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\38-WorkingWithFiles"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\37-ThrowDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\36-ReadingFileDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\35-ExceptionHandling"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\34-HashMapDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\33-ArrayListWithClass"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\32-ArrayListTypedDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\31-ArrayListDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\30-PackagesDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\29-StaticDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\28-InterfaceDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\27-Interfaces"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\26-AbstractDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\25-AbstractClasses"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\24-Overriding"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\23-PolymorphismDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\22-InheritanceDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\21-Inheritance"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\20-MethodOverloading"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\19-ClassesWithAttributes"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\18-ReCapDemo_Classes"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\17-Classes"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\16-Methods2"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\15-Methods"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\14-SayiBulma"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\13-ArkadasSayilar"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\12-MukemmelSayi"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\11-SesliHarfler"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\10-MiniProjeAsalSayi"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\9-StringsDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\8-MultiDimensionalArrayDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\7-ReCapDemo2"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\6-ArraysDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\4-SwitchDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\5-LoopDemo"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\3-ReCapDemo1"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\2-Conditionals"/>
+			<item value="D:\Github\BTK-Akademi-Java-Giris\1-Variables"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="652"/>
+		<item key="DIALOG_Y_ORIGIN" value="300"/>
+	</section>
+</section>
