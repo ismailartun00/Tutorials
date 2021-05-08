@@ -1,7 +1,0 @@
-package springIntro;
-
-public class CustomerManager {
-	public void add() {
-		// iþ kurallarýný çalýþtýrýr.
-	}
-}

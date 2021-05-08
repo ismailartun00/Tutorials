@@ -1,7 +1,0 @@
-package springIntro;
-
-public class CustomerDal extends ICustomerDal{
-	public void add() {
-		System.out.println("Oracle Veritababnýna Eklendi.");
-	}
-}
