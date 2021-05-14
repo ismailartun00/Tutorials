@@ -1,0 +1,2 @@
+rootProject.name = "ArayuzOlusturmaProjesi"
+include ':app'
